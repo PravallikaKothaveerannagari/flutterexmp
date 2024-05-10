@@ -1,0 +1,10 @@
+name: "FLUTTER_HTTP_EXAMPLE"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  http: ^1.2.1
+environment:
+  sdk: '3.3.4'
+http: ^1.2.1
